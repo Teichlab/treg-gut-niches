@@ -6,5 +6,4 @@ Project: PRJEB57700
 
 Processed data of scRNA-seq and Visium is available for browsing gene expression and downloading in https://treg-gut-niches.cellgeni.sanger.ac.uk/.
 
-Link to the article: https://www.nature.com/articles/s41586-024-07251-0 [nature.com]
-
+Link to the article: https://www.nature.com/articles/s41586-024-07251-0
